@@ -27,5 +27,5 @@ public class ThreadWithPriority extends Thread{
 📌Thread priority is only a suggestion to JVM or the scheduler
 📌Higher priority does not guarantee execution order.
 📌Higher priority threads may get more CPU scheduler time
-📌The actual behavior depends on the JVM & OS
+📌The actual behaviour depends on the JVM
  */
